@@ -1,91 +1,75 @@
-# <p align="center">🛸 STUDY MASTER PRO (2026 Ultimate Edition)</p>
+# <p align="center">🛸 STUDY MASTER PRO (v2.5)</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.5.0-cyan?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/UI-KivyMD-00C8FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Legendary-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Release-2026_Edition-00C8FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Design-Smooth_UI-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Windows-white?style=for-the-badge&logo=windows">
 </p>
 
 ---
 
-## 🌌 Vizyon: Odaklanmanın Geleceği
-**Study Master Pro**, sıradan bir zamanlayıcı değildir. Modern insanın en büyük sorunu olan dikkat dağınıklığını; **renk psikolojisi**, **akustik terapi** ve **oyunlaştırma (Gamification)** ile çözen kapsamlı bir "Derin Odaklanma" istasyonudur. 
+## 🌌 Modern Odaklanma İstasyonu
+**Study Master Pro**, estetik tasarımı ve derin odaklanma mekanikleriyle çalışma alışkanlıklarınızı yeniden şekillendirir. 2026 vizyonuyla, en pürüzsüz kullanıcı deneyimi için geliştirilmiştir.
 
 ---
 
-## 🎨 Mühendislik Harikası Görsel Deneyim
+## 🎨 Görsel Mükemmellik ve Atmosferler
 
-### 🌀 Pürüzsüz Analog Grafik Motoru
-Standart uygulamaların aksine, zamanlayıcı dairesi **OpenGL SmoothLine** algoritmaları ile piksellenmeden arındırılmıştır. Zaman akarken ekranınızda bir sanat eseri izliyormuşsunuz hissi verir.
+Uygulama, her ruh haline ve çalışma temposuna uygun **20 farklı atmosfer** sunar. Bu atmosferler, renk psikolojisi kullanılarak odağınızı en üst düzeyde tutmak için tasarlanmıştır.
 
+### 🌓 Atmosfer Galerisi
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92f9fee4-20e3-4e2c-9770-badec4452af2" width="45%">
-  <img src="https://github.com/user-attachments/assets/5a8e8e85-d47b-45ff-8e54-e384c707de5d" width="45%">
+  <img src="https://github.com/user-attachments/assets/abddd893-01a6-48a8-b8af-0ed1689cb6e4" width="100%">
 </p>
 
-### 🌓 20 Eşsiz Atmosfer (Renk Psikolojisi)
-Her çalışma modu farklı bir zihinsel enerji gerektirir. Uygulama içerisinde, her biri özenle seçilmiş **20 farklı atmosfer** bulunur:
-* **Deep Space & Night:** Derin analiz ve kodlama için.
-* **Sakura & Lavender:** Yaratıcı yazarlık ve tasarım için.
-* **Neon & Solar:** Yüksek enerjili, hızlı bitirilmesi gereken görevler için.
+### ⏳ Kristal Netliğinde Zamanlayıcı
+OpenGL tabanlı `SmoothLine` teknolojisiyle, analog zamanlayıcı her saniyede kusursuz bir akış sergiler.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/635cb8df-ed36-4165-a713-37378881b861" width="100%">
-  <br><i>Geniş Atmosfer Seçim Ekranı</i>
+  <img src="https://github.com/user-attachments/assets/f27afc65-d47b-45ff-8e54-e384c707de5d" width="48%">
+  <img src="https://github.com/user-attachments/assets/f2caa88f-59a1-4910-8005-6c238768ee95" width="48%">
 </p>
 
 ---
 
-## 🔥 Temel Güç Noktaları
+## 💎 Temel Özellikler
 
-| Özellik | Açıklama |
+| Özellik | Detay |
 | :--- | :--- |
-| **🎮 Gamification** | Çalıştıkça XP kazanın, seviye atlayın ve "Master" unvanını alın. |
-| **🔔 12 VIP Alarm** | Odaklanmadan çıkışı yumuşatan veya sizi anında canlandıran 12 farklı ses tonu. |
-| **🧘 Breath Sync** | Odağınız dağıldığında 4-4-4-4 tekniğiyle nefes egzersizi yapan akıllı modül. |
-| **🌧️ Ambient Mixer** | Yağmur, odun ateşi ve Lofi müzik seslerini kendi zevkinize göre karıştırın. |
+| **🎮 Gamification** | Çalıştıkça XP kazanın ve seviyenizi yükseltin. |
+| **🔔 VIP Alarmlar** | 12 farklı yüksek kaliteli ses seçeneği. |
+| **🧘 Breath Mode** | Stres anlarında sizi dengeleyecek nefes modülü. |
+| **📊 İstatistikler** | Gelişiminizi anlık olarak takip edin. |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/831fa214-2817-41a6-9dd0-5345670d305d" width="90%">
+  <br><i>Kişisel Gelişim ve XP Paneli</i>
+</p>
 
 ---
 
-## 📊 Kişisel Gelişim Paneli (XP Sistemi)
-Tüm ilerlemeniz anlık olarak kaydedilir. Çalıştığınız her dakika, 2026 yılındaki başarınız için bir yatırımdır.
+## 📸 Uygulama İçi Görünümler
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06d662e3-d13a-43a0-a29f-3d57d80774ff" width="90%">
+  <img src="https://github.com/user-attachments/assets/ebacc7fa-5633-40b3-8396-3b1ba188f4d8" width="31%">
+  <img src="https://github.com/user-attachments/assets/7c688014-b0c9-479e-b37c-ff4d48d84b3b" width="31%">
+  <img src="https://github.com/user-attachments/assets/57d30dde-db84-485f-829c-719d17d24f52" width="31%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c69e367a-319b-4cc8-9283-193b054a8e49" width="100%">
 </p>
 
 ---
 
 ## 🛠️ Teknik Altyapı
-Bu yazılım, performans ve stabilite odaklı modern teknolojiler üzerine inşa edilmiştir:
-
-> [!IMPORTANT]
-> **Donanım Hızlandırma:** Uygulama, GPU tabanlı rendering yaparak işlemci kullanımını minimumda tutar.
-> **Taşınabilirlik:** Kurulum gerektirmez, `assets` klasörü ile her yere taşınabilir.
-
-* **Grafik Engine:** OpenGL ES 2.0 tabanlı KivyMD.
-* **Ses Motoru:** FFpyplayer (Sıfır gecikmeli ses akışı).
-* **Veritabanı:** JSON tabanlı asenkron veri depolama.
+* **Geliştirme:** Python & KivyMD
+* **Grafik:** Hardware Accelerated OpenGL
+* **Veri:** Local JSON Data Persistence
+* **Yapı:** Portable (Kurulum gerektirmez)
 
 ---
 
-## 📸 Uygulama Galerisi (2026 Vizyonu)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/74f7c56a-c741-4b76-ac22-87b50af84ad9" width="31%">
-  <img src="https://github.com/user-attachments/assets/fac9b0e7-6b92-439d-ad43-17c6bba4fc23" width="31%">
-  <img src="https://github.com/user-attachments/assets/80241846-f229-4eac-b686-aaf914ac230a" width="31%">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f6a4e399-8943-4719-af52-575a499618c0" width="31%">
-  <img src="https://github.com/user-attachments/assets/80cdb0f9-11ed-47e8-ae60-01811ce9f414" width="31%">
-  <img src="https://github.com/user-attachments/assets/4faf58be-6326-444b-87b9-8ef1411843d5" width="31%">
-</p>
+## 🎊 2026 Lansman Notu
+Bu yazılım, **31 Aralık 2025** tarihinde, yeni yılın getireceği başarılara odaklanmak için tamamlanmıştır. Verimlilik yolculuğunuzda size eşlik etmeye hazır.
 
 ---
-
-## 🎊 Geliştirici Notu
-Bu proje, **31 Aralık 2025** gecesi, büyük bir tutku ve uykusuz saatlerin sonucunda hayata geçirilmiştir. 2026 yılında verimliliğinizi zirveye taşımak için hazırdır. 
-
----
-<p align="center"><b>© 2026 Study Master Pro - Crafted with Passion</b></p>
+<p align="center"><b>Study Master Pro - Master Your Time</b></p>
